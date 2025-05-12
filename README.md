@@ -1,33 +1,14 @@
-# 🏦 Bank Management System
+# Kaifa Shareef Portfolio
 
-This is a simple command-line **Bank Management System** built with Python. It allows a user to perform basic banking operations like depositing money, withdrawing funds, and checking their account balance.
+This is a one-page portfolio website for **Kaifa Shareef**, a BS Mathematics student with expertise in web design and development.
 
----
+## Features
+- Responsive one-page layout
+- Navigation menu with smooth scrolling
+- Modal-based Login and Signup forms
+- Skills section with multiple categories
+- Contact section with provided details
+- Creative background image and elegant design
 
-## 📂 Features
-
-- Create a bank account with:
-  - Account number
-  - Account holder name
-  - Initial balance (default is 0)
-- Deposit money into the account
-- Withdraw money from the account (with balance check)
-- Display account details and current balance
-- Menu-driven system for user interaction
-
----
-
-## 🚀 How to Run
-
-1. Make sure you have Python installed (Python 3.x).
-2. Save the code in a file named `bank_management.py`.
-3. Open a terminal and run the script:
-
-```bash
-python bank_management.py
-Welcome to the Bank Management System
-
-1. Deposit
-2. Withdraw
-3. Display Balance
-4. Exit
+## How to Use
+Open `index.html` in any modern web browser.
